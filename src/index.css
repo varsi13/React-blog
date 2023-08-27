@@ -103,3 +103,11 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.message p {
+  margin-bottom: 20px;
+}
+
+.link a {
+  color: #f1356d;
+}
